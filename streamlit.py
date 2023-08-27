@@ -13,6 +13,7 @@ background_style = """
 body {
     background-image: url('https://img.goodfon.com/original/1920x1080/8/70/anime-girl-sexy-bikini-drinking-poolside-hot.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
 }
 </style>
 """
