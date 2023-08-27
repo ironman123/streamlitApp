@@ -7,7 +7,7 @@ def find_largest_number(num1, num2, num3):
 st.set_page_config(page_title="Largest Number Finder", layout="centered")
 
 # Page header with animation
-st.title("🔍 Find the Largest Number")
+st.title("🔍 Find the Largest Number of the 3")
 st.write("Enter three numbers and discover the largest among them.")
 
 # Input fields for three numbers
