@@ -11,7 +11,7 @@ st.set_page_config(page_title="Largest Number Finder", layout="wide")
 background_style = """
 <style>
 body {
-    background-image: url('path_to_your_background_image.jpg');
+    background-image: url('anime-girl-sexy-bikini-drinking-poolside-hot.jpg');
     background-size: cover;
 }
 </style>
