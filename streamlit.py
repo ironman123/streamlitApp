@@ -19,7 +19,7 @@ num3 = st.number_input("Enter the third number:")
 # Button with animation
 if st.button("Find Largest"):
     with st.spinner("Calculating..."):
-        time.sleep(2)  # Simulating calculation delay
+        time.sleep(0.75)  # Simulating calculation delay
 
     st.markdown("---")  # Divider for a clean transition
 
